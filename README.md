@@ -169,7 +169,7 @@ The notebook includes a full **SHAP (SHapley Additive exPlanations)** analysis w
 
 ```bash
 git clone https://github.com/Sundaram04/Innofusion_hackathon.git
-cd Innofusion
+cd Innofusion_hackathon
 pip install pandas numpy matplotlib seaborn scikit-learn shap xgboost lightgbm
 jupyter notebook MobileHealthApp_Hackathon.ipynb
 ```
